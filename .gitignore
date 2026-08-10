@@ -158,3 +158,5 @@ frontends/conductor_im_plugins/*
 /STARTUP_GUIDE.md
 # Beta 渠道：订阅门户插件（仅 beta 分发携带，不入库）
 plugins/subscription_portal.py
+# 内网部署清单（本地备忘，不入库）
+/内网部署清单.md
