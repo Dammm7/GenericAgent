@@ -126,6 +126,9 @@ sche_tasks/
 # CDP Bridge 密钥配置（首次运行自动生成）
 assets/tmwd_cdp_bridge/config.js
 assets/copilot_proxy.pyw
+# 模型 instruction（本地定制，不入库）
+assets/glm52_instruction.txt
+assets/gpt55_instruction.txt
 **log.*
 
 # Reflect (ignore new files, whitelist existing)
@@ -153,3 +156,5 @@ frontends/conductor_im_plugins/*
 
 # 本地启动笔记（个人笔记，不进仓库）
 /STARTUP_GUIDE.md
+# Beta 渠道：订阅门户插件（仅 beta 分发携带，不入库）
+plugins/subscription_portal.py
